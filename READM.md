@@ -4,7 +4,7 @@
 ```
 
 ### **Técnologias Utilizadas**
- ***Python***
+ ***Python 3.13.2***
 
 ***
 def calcular_media(nota1, nota2):
